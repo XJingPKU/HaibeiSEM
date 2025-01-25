@@ -1,0 +1,16 @@
+type	year	number
+es_cc_exp_long_grass	2021	10
+es_cc_exp_long_grass	2018	6
+es_cc_exp_long_grass	2017	5
+es_cc_exp_long_grass	2019	5
+es_cc_exp_long_grass	2020	5
+es_cc_exp_long_grass	2012	4
+es_cc_exp_long_grass	2014	4
+es_cc_exp_long_grass	2016	4
+es_cc_exp_long_grass	2011	3
+es_cc_exp_long_grass	2008	2
+es_cc_exp_long_grass	2006	1
+es_cc_exp_long_grass	2009	1
+es_cc_exp_long_grass	2010	1
+es_cc_exp_long_grass	2013	1
+es_cc_exp_long_grass	2015	1
